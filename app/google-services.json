@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1077266077902",
+    "firebase_url": "https://quantalk-f4cf3.firebaseio.com",
+    "project_id": "quantalk-f4cf3",
+    "storage_bucket": "quantalk-f4cf3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077266077902:android:c8334e60729ea8a6",
+        "android_client_info": {
+          "package_name": "com.example.singh.quantalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077266077902-ti4hf4ueg3op7nvk1rgubesu6d2pmkle.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCInBaX9XuaquMbN5CQzDESoBQoKWT-hbw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
